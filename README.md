@@ -74,19 +74,9 @@
 
 
 <p display="flex" align="center">
-<!--<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1366&hide=smalltalk&theme=algolia&layout=compact" width="400" /> -->
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1366&hide=smalltalk&theme=algolia&layout=compact" width="400" /> 
  
- <picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Rohan1366&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=Rohan1366&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=Rohan1366&show_icons=true" />
-</picture>
+
 
 
 
