@@ -79,7 +79,7 @@
 
 
   <a href="https://github.com/Rohan1366?tab=repositories">
-    <img width="400" height="auto"  alt="Arjun's github stats" 
+    <img width="400" height="auto"  alt="Rohan's github stats" 
          src="https://github-readme-stats.vercel.app/api?username=Rohan1366&show_icons=true&theme=algolia&count_private=true" />
   </a>
   
