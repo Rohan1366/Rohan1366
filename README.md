@@ -75,7 +75,7 @@
 
 <p display="flex" align="center">
 <img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan1366&hide=smalltalk&theme=algolia&layout=compact" width="400" />
-<img alt="" src=" https://github-readme-stats.vercel.app/api?username=Rohan1366&show_icons=true&theme=transparent" width="400"/>
+
 
 
 
