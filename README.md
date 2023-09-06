@@ -1,7 +1,7 @@
 
  ### Hi there, I'm Rohan Ghadge 👋
  
-## Maharashtra
+
 
 
 <a href="https://my-portfolio-rg.netlify.app/">
