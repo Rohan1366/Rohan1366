@@ -9,7 +9,7 @@
 <a title="rohanghadge97660504@gmail.com" href="mailto:rohanghadge97660504@gmail.com.com">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="1995sirohis@gmail.com" />
 </a>
-<a href="www.linkedin.com/in/rohan-ghadge-73963923b">
+<a href="www.linkedin.com/in/rohan-ghadge-73963923b/">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/rohan-ghadge-73963923b" />
 </a>
 
